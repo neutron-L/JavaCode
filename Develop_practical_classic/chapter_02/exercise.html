@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var forms = {
+            "number": /^\d+$/,
+            "name": /^.+$/,
+            "job": /^.+$/,
+            "date": /^\d{4}\-\d{2}\-\d{2}$/,
+            "salary": /^\d*(\.\d*)?$/,
+            "bonus": /^\d*(\.\d*)?$/,
+        }
+
+        function check(dom) {
+            form = forms[dom.name];
+            if (!form.test(dom.value)) {
+                alert(dom.name + "`value is invalid, it should be form as " + form);
+                // return false;
+            }
+        }
+
+        function validate() {
+            var datas = document.getElementsByTagName("input");
+            for (var i = 0; i < datas.length; i++) {
+                check(datas[i]);
+            }
+        }
+
+    </script>
+</head>
+<body>
+<form method="post" action="">
+    number: <input type="text" name="number" />
+    name: <input type="text" name="name" />
+    job: <input type="text" name="job" />
+    date: <input type="text" name="date" />
+    salary: <input type="text" name="salary" />
+    bonus: <input type="text" name="bonus" />
+    <input type="submit" value="submit" onclick="validate();"/>
+</form>
+</body>
+</html>

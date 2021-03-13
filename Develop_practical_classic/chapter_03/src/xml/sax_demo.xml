@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK" ?>
+<addresslist>
+    <linkman id="ll">
+        <name>
+            Lilin
+        </name>
+        <email>
+            lilin@qq.com
+        </email>
+    </linkman>
+    <linkman id="lyf">
+        <name>
+            liuyongfei
+        </name>
+        <email>
+            liuyongfei@qq.com
+        </email>
+    </linkman>
+</addresslist>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function shownewpage(thisurl){
+            window.open(thisurl, "bounce page", width=200, height=60,
+             resizable="no");
+        }
+    </script>
+</head>
+<body>
+<form name="parentform">
+    <input type="button" value="choose info" onclick="shownewpage('content.html');">
+    <br>
+    choose result: <input type="text" name="result" />
+</form>
+</body>
+</html>

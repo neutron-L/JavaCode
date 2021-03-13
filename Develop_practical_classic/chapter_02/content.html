@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function returnValue() {
+            var city = document.myform.city.value;
+            var doc = window.opener.document;
+            doc.parentform.result.value = city;
+            window.close();
+        }
+    </script>
+</head>
+<body>
+<form name="myform">
+    <select name="city">
+        <option value="beijing">beijing</option>
+        <option value="shanghai">shanghai</option>
+        <option value="guangzhou">guangzhou</option>
+        <option value="tianjin">tianjin</option>
+    </select>
+    <input type="button" value="return" onclick="returnValue();" />
+</form>
+</body>
+</html>

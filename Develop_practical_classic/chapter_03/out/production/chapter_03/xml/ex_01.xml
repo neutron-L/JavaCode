@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<departments>
+    <department>
+        <number>1</number>
+        <name>finance</name>
+        <location>finance`s duty</location>
+    </department>
+    <department>
+        <number>2</number>
+        <name>administration</name>
+        <location>administration`s duty</location>
+    </department>
+    <department>
+        <number>3</number>
+        <name>personnel</name>
+        <location>personnel`s duty</location>
+    </department>
+</departments>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>E-mail</title>
+    <script>
+        function validate(f) {
+            var value = f.email.value;
+            if (!/^\w+@\w+.\w+$/.test(value)) {
+                alert("error");
+                f.email.focus();
+                // f.email.select();
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+<form action="" method="post" name="myform" onsubmit="return validate(this)">
+    E-mail: <input type="text" name="email" />
+    <input type="submit" value="Submit" />
+</form>
+</body>
+</html>

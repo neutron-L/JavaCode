@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<authors>
+    <author>
+        <name id="MR&apos;LXH">lixinghua</name>
+        <books>
+            <book>
+                &lt;&lt;Java in action&gt;&gt;
+            </book>
+            <book>
+                &quot;C primer plus&quot;
+            </book>
+        </books>
+    </author>
+</authors>

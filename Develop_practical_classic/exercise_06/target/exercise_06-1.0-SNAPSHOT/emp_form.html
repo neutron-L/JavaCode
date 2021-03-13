@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>Add employee</h3>
+
+<form method="post" action="emp_handler.jsp">
+    operator:
+    <select name="operator">
+        <option value="1">add employee</option>
+        <option value="2">search employee</option>
+        <option value="3">edit employee</option>
+        <option value="4">drop employee</option>
+    </select>
+    id: <input type="text" name="empno" /><br/>
+    name: <input type="text" name="ename" /><br/>
+    job: <input type="text" name="job" /><br/>
+    hiredate: <input type="date" name="hiredate" /><br/>
+    sal: <input type="text" name="sal" /><br/>
+    <input type="submit" value="Submit" /><br/>
+    <input type="reset" value="Reset" /><br/>
+</form>
+</body>
+</html>

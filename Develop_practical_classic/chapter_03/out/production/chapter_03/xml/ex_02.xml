@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="GBK" ?>
+<emps>
+    <emp>
+        <empno>1000</empno>
+        <ename>lilin</ename>
+        <job>CEO</job>
+        <hiredate>2020-02-14</hiredate>
+        <sal>30000</sal>
+        <comm>5000</comm>
+    </emp>
+    <emp>
+        <empno>1001</empno>
+        <ename>lijianfei</ename>
+        <job>CFO</job>
+        <hiredate>2019-03-03</hiredate>
+        <sal>25000</sal>
+        <comm>4500</comm>
+    </emp>
+    <emp>
+        <empno>1002</empno>
+        <ename>liuyongfei</ename>
+        <job>HR</job>
+        <hiredate>2020-02-15</hiredate>
+        <sal>4000</sal>
+        <comm>4800</comm>
+    </emp>
+    <emp>
+        <empno>1003</empno>
+        <ename>huangwei</ename>
+        <job>COO</job>
+        <hiredate>2018-03-04</hiredate>
+        <sal>40000</sal>
+        <comm>4000</comm>
+    </emp>
+</emps>
