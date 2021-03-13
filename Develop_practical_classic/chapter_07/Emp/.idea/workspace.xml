@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="010bdfc3-ed4d-4765-aa22-c35503833656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,6 +168,7 @@
       <updated>1615641240280</updated>
       <workItem from="1615641242465" duration="17000" />
       <workItem from="1615641747268" duration="2778000" />
+      <workItem from="1615644560689" duration="3165000" />
     </task>
     <servers />
   </component>
@@ -185,6 +185,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
