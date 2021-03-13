@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -168,7 +169,7 @@
       <updated>1615641240280</updated>
       <workItem from="1615641242465" duration="17000" />
       <workItem from="1615641747268" duration="2778000" />
-      <workItem from="1615644560689" duration="3165000" />
+      <workItem from="1615644560689" duration="4688000" />
     </task>
     <servers />
   </component>
