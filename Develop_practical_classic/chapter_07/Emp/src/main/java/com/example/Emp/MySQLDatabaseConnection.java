@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class MySQLDatabaseConnection implements DatabaseConnection {
 
     private static String DRIVER = "com.mysql.jdbc.Driver";
-    private static String DATABASE = "emp";
+    private static String DATABASE = "javaee";
     private static String URL="jdbc:mysql://localhost:3306/" + DATABASE + "?serverTimezone=GMT%2B8";
     private static String USER = "root";
     private static String PASSWORD="131125fei";
