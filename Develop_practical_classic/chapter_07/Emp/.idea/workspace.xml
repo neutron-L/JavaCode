@@ -69,9 +69,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.TestDAOSelect">
-    <configuration name="TestDAOSelect" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.example.Emp.TestDAOSelect" />
+  <component name="RunManager" selected="Application.TestDAOInsert">
+    <configuration name="TestDAOInsert" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.Emp.TestDAOInsert" />
       <module name="Emp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,7 +179,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestDAOSelect" />
+      <item itemvalue="Application.TestDAOInsert" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.37" />
     </list>
   </component>
@@ -193,7 +193,7 @@
       <updated>1615641240280</updated>
       <workItem from="1615641242465" duration="17000" />
       <workItem from="1615641747268" duration="2778000" />
-      <workItem from="1615644560689" duration="5716000" />
+      <workItem from="1615644560689" duration="6159000" />
     </task>
     <servers />
   </component>
