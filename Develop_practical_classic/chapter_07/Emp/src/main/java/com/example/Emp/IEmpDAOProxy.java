@@ -17,13 +17,17 @@ public class IEmpDAOProxy implements IEmpDAO {
         boolean flag = false;
         try {
             if (dao.findById(emp.getEmpno()) == null) {
+                System.out.println(flag);
+
                 flag = dao.doCreate(emp);
             }
+
         } catch (Exception e) {
             throw e;
         } finally {
             dbc.close();
         }
+
         return flag;
     }
 

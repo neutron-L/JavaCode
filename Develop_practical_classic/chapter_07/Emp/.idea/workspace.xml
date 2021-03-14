@@ -10,7 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="010bdfc3-ed4d-4765-aa22-c35503833656" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Register/.idea/artifacts/register_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Register/.idea/artifacts/register_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Register/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Emp/EmpDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Emp/EmpDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Emp/IEmpDAOProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Emp/IEmpDAOProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/EmpDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/EmpDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/IEmpDAOProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/IEmpDAOProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/MySQLDatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/MySQLDatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Emp/EmpDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Emp/EmpDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Emp/IEmpDAOProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Emp/IEmpDAOProxy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +37,7 @@
         <option value="Interface" />
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -60,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Register" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,7 +81,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.TestDAOInsert">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.37">
     <configuration name="TestDAOInsert" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.Emp.TestDAOInsert" />
       <module name="Emp" />
@@ -193,7 +205,7 @@
       <updated>1615641240280</updated>
       <workItem from="1615641242465" duration="17000" />
       <workItem from="1615641747268" duration="2778000" />
-      <workItem from="1615644560689" duration="6159000" />
+      <workItem from="1615644560689" duration="9235000" />
     </task>
     <servers />
   </component>
@@ -211,6 +223,17 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/Emp/EmpDAOImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

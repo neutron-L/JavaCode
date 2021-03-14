@@ -31,11 +31,13 @@ public class EmpDAOImpl implements IEmpDAO {
 
         if (pstmt.executeUpdate() > 0) {
             flag = true;
+            System.out.println("=====================================================");
         }
         assert pstmt != null;
         pstmt.close();
+        System.out.println("=====================================================");
 
-        return false;
+        return flag;
     }
 
     @Override
