@@ -9,20 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="010bdfc3-ed4d-4765-aa22-c35503833656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Register/.idea/artifacts/register_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Register/.idea/artifacts/register_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Register/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Emp/EmpDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Emp/EmpDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Emp/IEmpDAOProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Emp/IEmpDAOProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/EmpDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/EmpDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/IEmpDAOProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/IEmpDAOProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/MySQLDatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Emp-1.0-SNAPSHOT/WEB-INF/classes/com/example/Emp/MySQLDatabaseConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Emp/EmpDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Emp/EmpDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Emp/IEmpDAOProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Emp/IEmpDAOProxy.class" afterDir="false" />
-    </list>
+    <list default="true" id="010bdfc3-ed4d-4765-aa22-c35503833656" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +192,7 @@
       <updated>1615641240280</updated>
       <workItem from="1615641242465" duration="17000" />
       <workItem from="1615641747268" duration="2778000" />
-      <workItem from="1615644560689" duration="9235000" />
+      <workItem from="1615644560689" duration="9699000" />
     </task>
     <servers />
   </component>
